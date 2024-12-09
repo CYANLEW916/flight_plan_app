@@ -6,6 +6,7 @@ import io
 import pandas as pd
 import re
 import string
+
 # Constants and mappings
 START_SEGMENT = 1
 LINE_SEGMENT = 2
