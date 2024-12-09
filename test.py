@@ -25,7 +25,8 @@ CHARACTERISTICS_MAP = {
     9: "Aircraft is currently flying",
     10: "Discontinuity",
     11: "Non-Flyable",
-    12: "Level Off"
+    12: "Level Off",
+    13: "Level Off"
 }
 
 # Helper functions
