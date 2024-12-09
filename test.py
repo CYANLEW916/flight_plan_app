@@ -26,7 +26,7 @@ CHARACTERISTICS_MAP = {
     10: "Discontinuity",
     11: "Non-Flyable",
     12: "Level Off",
-    13: "Level Off"
+    13: "Level Off",
 }
 
 # Helper functions
